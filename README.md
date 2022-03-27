@@ -1,2 +1,1 @@
-- 👋 OI eu sou @senhordip
-- 👀 apenas sou alguém comum nessa internet ...
+dipdip
